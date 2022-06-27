@@ -6,7 +6,6 @@
 - 👯 Estou procurando formar uma equipe para ganhar experiência na área 
 - 😄 Pronouns: ele/dele
 
--->>
 
 <div align="center">
   <a href="https://github.com/013Edu">
