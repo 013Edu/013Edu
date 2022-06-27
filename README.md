@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou estudando ánalise e desenvolvimento de sistemas
-- 🌱 Atualmente estou estudando a linguagem JavaScript e me aprofundando em Html e Css
+- 🌱 Atualmente estou estudando a linguagem JavaScript e me aprofundando em Html e Css e como biblioteca estou me aventurando no React
 - 👯 Estou procurando formar uma equipe para ganhar experiência na área 
 - 😄 Pronouns: ele/dele
 
