@@ -30,18 +30,18 @@ object **EDUARDO** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**EDUARDO** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardos&show_icons=true&theme=dracula&line_height=27" alt="**EDUARDO** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/duuukrl
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/eduardoogoncalvess_/
-[linkedin]: hhttps://www.linkedin.com/in/eduardo-gon%C3%A7alves-993586224/
+[linkedin]: https://www.linkedin.com/in/eduardo-gon%C3%A7alves-993586224/
 <br>
 
 #### Rede Sociais!
