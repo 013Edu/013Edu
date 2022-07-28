@@ -28,12 +28,15 @@ object **EDUARDO** {
 
 
 ## **GitHub Estatísticas**
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
+<
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=013Edu&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=013Edu&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/duuukrl
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
