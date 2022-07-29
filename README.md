@@ -53,6 +53,6 @@ object **EDUARDO** {
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-![Snake animation](https://github.com/kamilajesus/kamilajesus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/013Edu/kamilajesus/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=013Edu&label=Profile%20views&color=28a464&style=flat" alt="013Edu" /> </p>
