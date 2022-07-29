@@ -53,3 +53,4 @@ object **EDUARDO** {
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=013Edu&label=Profile%20views&color=28a464&style=flat" alt="013Edu" /> </p>
