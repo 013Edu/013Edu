@@ -40,7 +40,7 @@ object **EDUARDO** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=013Edu&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
+[website]: [https://codedev.ga/](https://my-portfolio-alpha-hazel.vercel.app/)
 [twitter]: https://twitter.com/duuukrl
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/eduardoogoncalvess_/
