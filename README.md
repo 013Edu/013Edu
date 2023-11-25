@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="[https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Eduardo%2C+a+Frontend+Developer+and+animal+lover+%E2%9C%A9](https://images.unsplash.com/photo-1597239450996-ea7c2c564412?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="70%" />
+
+<img src="[https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Eduardo%2C+a+Frontend+Developer+and+animal+lover+%E2%9C%A9]" width="70%" />
 
 <br><br>
 <pre>
