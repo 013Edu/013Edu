@@ -3,7 +3,6 @@
 
 <br><br>
 <pre>
-    💼 Epadoca • Front-end dev • Platform Engineer
     💻 System programming languages • Front-end 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
